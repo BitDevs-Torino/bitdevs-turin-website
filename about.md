@@ -2,54 +2,25 @@
 layout: default
 ---
 
-BitDevs is a community for those interested in discussing and participating in
-the research and development of Bitcoin and related protocols. You can be well
-versed with or new to the topics, all are welcome. Be advised: discussion will
-be technical.
+## Mission
 
-### Socratic Seminars
+BitDevs Torino is a monthly meetup and developer-community rooted in the spirit of BitDevs: to bring together students, developers and researchers in the Turin region who are interested in the research and development of Bitcoin and related protocols. We meet on the first Thursday of every month at 19:00–20:00, in English, for discussion, presentations and open-source collaboration.
 
-Our monthly Socratic Seminar events are formatted to foster debate, information
-sharing and lively discussion. In the weeks preceding the event, discussion
-topics are collated by meetup members from a variety of sources: pull requests
-in popular git repositories (e.g. Bitcoin Core, lnd, c-lightning, Joinmarket,
-Elements Alpha and Electrum), research papers, technical blog posts, IRC logs,
-network monitors and more. After a period of discussion, some events will have [presentations](https://bitdevs.org/presenter-guidelines/) of open source
-projects, companies, research and other relevant content. A feedback and Q&A
-section follow. After the event the group gathers at a nearby restaurant to
-socialize.
+## Community Values
 
-A newsletter is sent out the day of the event which outlines discussion topics.
-Archives of discussion topics and presentations can be found in the event
-descriptions of past meetups. The discussion portion of the event is NEVER
-recorded. It is recommended that you have a firm grasp of the basics of Bitcoin
-in order to extract the most value from our Socratic events.
+- **Technical depth & curiosity:** We aim to go beyond casual discussion — digging into protocol design, research papers, open-source code, and development practices. This aligns with the original BitDevs mandate of fostering a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.
+- **Openness & inclusiveness:** While we lean technical, everyone is welcome — students, professional developers, hobbyists, and those newer to the field.
+- **Peer learning & collaboration:** We encourage participants to both present and listen, to share projects, challenges and ideas, and to form working groups where desired.
+- **Local-global mindset:** Although based in Turin (Torino), we connect with the larger BitDevs community and use English as the primary language so we can interface with international participants.
 
-Please contact the organizers if you'd like to present at a future Socratic
-event or have a recommended topic for discussion: bitdevsnyc at gmail. There
-are different requirements for presentations depending on the nature of the
-project.
+## Format & Schedule
 
-### Whitepaper Series
-
-A journal club to discuss specific topics in the Bitcoin ecosystem. This is an
-academic-style journal club where one person chooses a topic or paper and
-presents it. Participants are expected to have read the paper or other material
-suggested by the discussion leader. The discussion leader doesn’t have to be an
-expert on the subject, but should be interested enough in it to read the paper
-thoroughly so as to give a decent presentation. After informally presenting the
-topic, the group can then ask questions or open discussion surrounding the
-topic. The presentation should be informal (slides are allowed, but
-whiteboard/chalkboard is preferred), and this should be a discussion, not a
-one-way transmission of information by the presenter. The reading material
-doesn’t have to be a whitepaper. In the case of widely-known topics (such as
-Elliptic Curve encryption) a chapter of a textbook, Wikipedia article, or other
-material can be suggested.
-
-To propose a topic to present or volunteer to present a paper, please contact
-bitdevsnyc at gmail.
-
-### Debate Series
-
-Our debate series is dedicated to the investigation of controversial technical
-topics. The structure of the event is dependent on the topic of interest.
+- **When:** First Thursday of each month — 19:00 to 20:00, followed optionally by social/networking time (e.g., the “Satoshi Spritz” from 20:00).
+- **Where:** Primary venue options: BLOX Space (Piazza Solferino) or BitPolito office (“Convivio”) at Politecnico di Torino.
+- **Typical agenda:**
+  - 19:00 – Welcome & networking
+  - 19:10 – Main session: either a short talk (20–30 min) or moderated discussion (Socratic style) on a pre-selected topic
+  - 19:50 – Wrap-up & announcements for next month
+  - 20:00+ – Informal networking / spritz
+- **Topics:** Rotate between presentations of open-source Bitcoin projects (code + demo), research or white-paper deep dives (e.g., protocol upgrades, consensus mechanisms), and Socratic seminars for group discussion on a reading list or provocative question.
+- **Language:** English.
