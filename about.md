@@ -4,7 +4,7 @@ layout: default
 
 ## Mission
 
-BitDevs Torino is a monthly meetup and developer-community rooted in the spirit of BitDevs: to bring together students, developers and researchers in the Turin region who are interested in the research and development of Bitcoin and related protocols. We meet on the first Thursday of every month at 19:00–20:00, in English, for discussion, presentations and open-source collaboration.
+BitDevs Torino is a meetup and developer-community rooted in the spirit of BitDevs: to bring together students, developers and researchers in the Turin region who are interested in the research and development of Bitcoin and related protocols. We meet for discussion, presentations and open-source collaboration. Dates are announced on our [Telegram](https://t.me/bitdevstorino) and on the [Events](/events) page.
 
 ## Community Values
 
@@ -15,12 +15,12 @@ BitDevs Torino is a monthly meetup and developer-community rooted in the spirit 
 
 ## Format & Schedule
 
-- **When:** First Thursday of each month — 19:00 to 20:00, followed optionally by social/networking time (e.g., the “Satoshi Spritz” from 20:00).
-- **Where:** Primary venue options: BLOX Space (Piazza Solferino) or BitPolito office (“Convivio”) at Politecnico di Torino.
+- **When:** Sessions are scheduled periodically — the next date is always announced on our [Telegram](https://t.me/bitdevstorino) and on the [Events](/events) page. Each session runs about an hour, often followed by informal social time (the “Satoshi Spritz”).
+- **Where:** Venue varies per event and is announced together with the date (past/candidate venues include spaces around Politecnico di Torino and the city centre).
 - **Typical agenda:**
-  - 19:00 – Welcome & networking
-  - 19:10 – Main session: either a short talk (20–30 min) or moderated discussion (Socratic style) on a pre-selected topic
-  - 19:50 – Wrap-up & announcements for next month
-  - 20:00+ – Informal networking / spritz
+  - Welcome & networking
+  - Main session: either a short talk (20–30 min) or moderated discussion (Socratic style) on a pre-selected topic
+  - Wrap-up & announcements
+  - Informal networking / spritz
 - **Topics:** Rotate between presentations of open-source Bitcoin projects (code + demo), research or white-paper deep dives (e.g., protocol upgrades, consensus mechanisms), and Socratic seminars for group discussion on a reading list or provocative question.
 - **Language:** English.
