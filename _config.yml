@@ -11,6 +11,8 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title: "BitDevs Torino"
 description: "BitDevs Torino is a monthly meetup and developer-community for students, developers, and researchers in Turin who are interested in the research and development of Bitcoin and related protocols."
+url: "https://bitdevs-torino.github.io"
+baseurl: "/bitdevs-turin-website"
 
 # Leave out some files
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']

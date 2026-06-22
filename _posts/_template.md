@@ -3,17 +3,15 @@ layout: post
 published: false
 type: socratic
 title: "Socratic Seminar TODO"
-meetup: "https://www.meetup.com/BitDevsNYC/"
+meetup: "https://www.meetup.com/bitdevs-torino/"
 ---
 <!--- TODO: remove `published: false` when creating new socratic --->
-<!--- TODO: replace meetup link with https://www.meetup.com/BitDevsNYC/events/<##replace##>/ --->
+<!--- TODO: replace meetup link with https://www.meetup.com/bitdevs-torino/events/<##replace##>/ --->
 
 ## Announcements
-Please join us for our next Socratic Seminar. A special thank you to our sponsors [Chaincode Labs](https://chaincode.com) and [Cake Wallet](https://cakewallet.com/) for food, refreshments and event space.
+Please join us for our next Socratic Seminar.
 
-Please note the start time! We will open doors at 6pm for socializing, and plan on starting the discussion around 7pm.
-
-If you can't make it to the main event please join us at [PUBKEY](https://pubkey.bar/home) around 9:30PM.
+We will open doors at 19:00 for socializing, and plan on starting the discussion around 19:10. The session runs until about 20:00, followed by informal networking (the "Satoshi Spritz").
 
 
 ## Presentation
